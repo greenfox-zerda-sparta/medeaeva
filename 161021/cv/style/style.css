@@ -1,0 +1,56 @@
+/*header*/
+
+.top img {
+  width: "80%";
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*article*/
+
+article {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  font-size: 16px
+  text-indent: 40px line;
+}
+h1 {
+  text-transform: capitalize;
+  color: #222222
+}
+
+h1.big {
+  text-transform: capitalize;
+  color: #222222
+}
+
+.pi h1 {
+  border-top: solid, #000000, 3px;
+}
+h2 {
+
+}
+#intro {
+  font-size: 20px;
+  text-indent: 40px line;
+}
+
+.bold span {
+  font: bold;
+}
+
+#achievments {
+
+}
+
+.big {
+
+}
+h3 {
+  font: Merriweather, 15px, italic;
+}
+
+
+}

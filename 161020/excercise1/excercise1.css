@@ -1,0 +1,24 @@
+p {
+  align: left;
+  color: #d91300;
+  font-family: 'Roboto_slab', 'Times', serif;
+  font-weight: 550;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 16px;
+  padding-left: 20px;
+  padding-right: 16px;
+  width: 204px;
+  background-color: #ffff00;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #010101;
+  margin: 10px;
+}
+
+section {
+  padding-top: 10px;
+  padding-left: 28px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}

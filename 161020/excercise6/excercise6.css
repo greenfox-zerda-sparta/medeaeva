@@ -1,0 +1,15 @@
+body {
+  text-indent: 30px;
+}
+p {
+  font-size: 18px;
+  padding-left: 15px;
+  border: solid;
+  border-left-width: 2px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+}
+br {
+  text-indent: 30px;
+}

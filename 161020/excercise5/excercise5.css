@@ -1,0 +1,33 @@
+body {
+  text-indent: 40px
+}
+h1,h2 {
+  color: blue;
+}
+h2 {
+  color: orange;
+}
+p.lorem {
+  font-size: larger;
+}
+ul.blue {
+  color: blue;
+  list-style-position: inside;
+  list-style-type: square;
+}
+li.red {
+  color: red;
+  list-style-position: inside;
+  list-style-type: disc;
+  padding: 0px;
+}
+li.blackd {
+  color: black;
+  list-style-position: inside;
+  list-style-type: disc;
+  padding: 0px;
+}
+li.black {
+  color: black;
+  list-style-position: inside;
+}
