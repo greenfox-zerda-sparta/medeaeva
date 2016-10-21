@@ -1,7 +1,7 @@
 /*header*/
 
-.top img {
-  width: "80%";
+.top {
+  width: "100%";
   margin-left: auto;
   margin-right: auto;
 }
@@ -14,24 +14,28 @@ article {
   margin-right: auto;
   width: 800px;
   font-size: 16px
-  text-indent: 40px line;
-}
-h1 {
-  text-transform: capitalize;
-  color: #222222
+  text-indent: 20px;
 }
 
-h1.big {
-  text-transform: capitalize;
-  color: #222222
+h1 {
+  text-transform: uppercase;;
+  color: #222222;
+  font-size: 30px;
 }
 
 .pi h1 {
   border-top: solid, #000000, 3px;
 }
-h2 {
 
+h2 {
+  color: #222222;
+  font-size: 25px;
 }
+
+h3 {
+  font: Merriweather, 15px, italic;
+}
+
 #intro {
   font-size: 20px;
   text-indent: 40px line;
@@ -39,18 +43,4 @@ h2 {
 
 .bold span {
   font: bold;
-}
-
-#achievments {
-
-}
-
-.big {
-
-}
-h3 {
-  font: Merriweather, 15px, italic;
-}
-
-
 }
